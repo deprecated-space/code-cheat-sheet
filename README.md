@@ -1,2 +1,3 @@
 # code-cheat-sheet
-as the name 
+
+code snippets for a quick reference
